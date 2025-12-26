@@ -19,8 +19,6 @@ Academia Authenticator is a web-based platform that allows institutions and orga
 
 ### Key Capabilities
 - Fast verification process - results in seconds
-- SHA256 fingerprinting for each certificate
-- QR code generation for public verification
 - Role-based access control
 - Audit logs and tracking
 - Responsive web interface
